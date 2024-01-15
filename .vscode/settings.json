@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Quiet Light",
+    "workbench.colorTheme": "Dracula",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
     }
